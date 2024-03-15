@@ -1,5 +1,5 @@
 # start by pulling the python image
-FROM python:3.8-alpine
+FROM python:3.13.0a4-alpine
 
 # Install netcat for the wait-for-it script
 RUN apk update && apk add netcat-openbsd
