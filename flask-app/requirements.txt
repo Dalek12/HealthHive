@@ -15,3 +15,4 @@ cassandra-driver==3.25.0
 bcrypt
 
 
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
