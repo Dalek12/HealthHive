@@ -8,7 +8,7 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 jsonify==0.5
 MarkupSafe==2.1.2
-protobuf==3.20.3
+protobuf==6.33.5
 six==1.16.0
 Werkzeug==2.2.3
 pyspark==3.2.2
